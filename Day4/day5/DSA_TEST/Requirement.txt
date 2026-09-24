@@ -1,0 +1,43 @@
+Q1.
+  
+   Algorithm :- In order to achieve the desire output and to perform any task there is a systematic procedural steps that we follows , 
+                this all together known as an algorithm.
+
+    Characteristics of a good algorithm
+    > Algorithms should be effecient in time .
+    > The steps and procedure should not be very complex and sensitive and can be easily achieved.
+
+ 
+Q2. 
+   
+                       staic            |             Dynamic 
+					|
+	size is fixed hence cannot be 	|  size is not fixed(flexible) hence can change it 
+	resized after declaration	|   after declaration
+					|
+	Ex:- array ,fixed size stacks	|  Ex:- Linked lists , tree , graph etc.
+					|
+					|
+					|
+
+Q4. 
+    
+     Push :- use to push element on top of the stack
+      pop :- remove the top most elemet from stack.
+
+Q5.
+  
+    Enqueue :- add the element to the queue
+    Dequeue :- remove the elemnent from the queue
+
+Q6.
+
+    O(1) best case , O(n) worst case.
+
+Q8.
+       
+   singly linked list contains nodes and in each node there is one field for data and one for poitner that stores the address of next node..
+    
+    in array we can access any element through index which cannot be done in case of singly linked list and linked lists size can expand after declaration but array size are fixed ..
+
+
